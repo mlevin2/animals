@@ -1,0 +1,12 @@
+{
+  "name": "animals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Marshall Levin <marshall_levin@epam.com> (http://www.epam.com)",
+  "license": "ISC"
+}
